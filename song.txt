@@ -10,4 +10,12 @@ I'm in the Olympics, way I'm jumpin' through hoops
 Know my love infinite, nothin’ I wouldn’t do
 That I won't do, switchin’ for you
 
+<<<<<<< HEAD
 bla
+=======
+Boy, I'm tryna meet your mama on a Sunday
+Then make a lotta love on a Monday
+Never need no, no onе else, babe
+'Causе I'll be
+
+>>>>>>> forest
